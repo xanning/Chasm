@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "xraymod",
+    "name": "Chasm!",
+    "description": "The vision.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": ["xanning"],
+    "credits": "Meow",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

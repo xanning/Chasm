@@ -5,6 +5,8 @@ Enhance your vision with this X-Ray mod for Minecraft 1.8.9 Forge (bypasses hypi
 
 ### Commands
 
+All commands also support tab completion.
+
 | Command | Description |
 |---------|-------------|
 | `/xray` | View current settings. |

@@ -7,13 +7,14 @@ Enhance your vision with this X-Ray mod for Minecraft 1.8.9 Forge (bypasses hypi
 
 | Command | Description |
 |---------|-------------|
-| `/xray` | Toggle Xray on/off |
+| `/xray` | View current settings. |
 | `/xray on` | Enable Xray |
 | `/xray off` | Disable Xray |
+| `/xray bind <key>` | Bind to Toggle Xray |
 | `/xray mode <soft\|full>` | Set rendering mode (SOFT = translucent, FULL = full x-ray) |
 | `/xray opacity <0-100>` | Set block opacity percentage |
 | `/xray range <16-512>` | Set ore detection range |
-| `/xray caves-only <true\|false>` | Only show ores exposed to caves |
+| `/xray caves-only <true\|false>` | Only show ores exposed to caves (uhc bypass) |
 | `/xray caves-radius <1\|2>` | Cave detection radius |
 | `/xray diamonds <true\|false>` | Toggle diamond ore tracking |
 | `/xray diamonds-tracers <true\|false>` | Toggle diamond tracers |

@@ -37,6 +37,3 @@ Enhance your vision with this X-Ray mod for Minecraft 1.8.9 Forge (bypasses hypi
 | `/xray warts-tracers <true\|false>` | Toggle nether wart tracers |
 
 
-- Clean, standalone codebase
-
-Deploy and dominate! 🚀
